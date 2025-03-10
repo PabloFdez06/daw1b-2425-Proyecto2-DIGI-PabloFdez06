@@ -9,8 +9,8 @@ object TaskManager {
         return users[username] == password
     }
 
-    fun aniadirTarea(title: String, description: String, dueDate: String, priority: Int): Tareas {
-        val tarea = Tareas(UUID.randomUUID().toString(), title, description, false, dueDate, priority)
+    fun aniadirTarea(title: String, descripcion: String, fechaVencimiento: String, prioridad: Int): Tareas {
+        val tarea = Tareas(UUID.randomUUID().toString(), title, descripcion, false, fechaVencimiento, prioridad)
         tareas.add(tarea)
         return tarea
     }

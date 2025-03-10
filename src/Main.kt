@@ -25,17 +25,17 @@ fun main() {
             when (option) {
                 1 -> {
                     print("Título de la tarea: ")
-                    val title = scanner.nextLine()
+                    val titulo = scanner.nextLine()
                     print("Descripción: ")
-                    val description = scanner.nextLine()
+                    val descripcion = scanner.nextLine()
                     print("Fecha de vencimiento (YYYY-MM-DD): ")
-                    val dueDate = scanner.nextLine()
+                    val fechaVencimiento = scanner.nextLine()
                     print("Prioridad (1-5): ")
-                    val priority = scanner.nextInt()
+                    val prioridad = scanner.nextInt()
                     scanner.nextLine()
 
-                    val task = TaskManager.aniadirTarea(title, description, dueDate, priority)
-                    println("Tarea agregada: $task")
+                    val tarea = TaskManager.aniadirTarea(titulo, descripcion, fechaVencimiento, prioridad)
+                    println("Tarea agregada: $tarea")
                 }
                 2 -> {
                     println("\nLista de tareas (ordenadas por prioridad):")
