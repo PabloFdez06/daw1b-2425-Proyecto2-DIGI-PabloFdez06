@@ -35,7 +35,7 @@ Cuando ejecutas el script, se mostrará un menú con opciones para gestionar las
 [Preguntas](Preguntas.md)
 
 
-# -- FASE 3 DEL PROYECTO --
+# -- Proyecto 3: Un código abierto para la transformación digital --
 ---
 ## Fase 1
 ---
@@ -125,5 +125,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 ## Fase 2
 ---
-[QUESTIONS](Preguntas.md)
 
+THE ANSWERES TO ALL THE QUESTIONS OF THE PROJECT: [QUESTIONS](Preguntas.md)
