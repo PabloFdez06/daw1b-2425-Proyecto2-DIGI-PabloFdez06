@@ -69,7 +69,7 @@ Digital transformation requires efficient tools to manage day-to-day operations.
 
 ### 🖥️ Demo
 
-> A live web-based version is not yet available. A CLI video demo or hosted version (via Replit or similar) can be added in the future.
+[A simple web live version](https://replit.com/@PabloFdez06/TaskTrackerKotlin)
 
 ---
 
