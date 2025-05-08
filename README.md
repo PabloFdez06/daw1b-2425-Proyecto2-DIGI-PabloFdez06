@@ -115,7 +115,7 @@ java -jar taskmanager.jar
 Or run via IntelliJ IDEA by creating a Kotlin project and pasting the code.
 
 ### LICENSE
-[License](LICENSE)
+This project is licensed under the [MIT License](LICENSE).
 
 #### Fase 2
 
