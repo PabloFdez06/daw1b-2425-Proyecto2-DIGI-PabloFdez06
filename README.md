@@ -91,16 +91,16 @@ Task added: Prepare report
 
 ### 🖥️ Demo
 
-[A simple web live version](https://717df0d5-865d-411d-8816-fd7df8d3a024-00-3ekw8zz1a1agf.kirk.replit.dev/)
+[A SIMPLE WEB LIVE VERSION](https://717df0d5-865d-411d-8816-fd7df8d3a024-00-3ekw8zz1a1agf.kirk.replit.dev/)
 
 ---
 
-### DOCUMENTACIÓN GENERADA | HTML
+### DOCUMENTATION GENERATED | HTML
 
 [DOCUMENTACION GENERADA POR HTML](build/dokka/index.html)
 
 ### CONTRIBUTING
-[Contributing](CONTRIBUTING.md)
+[CONTRIBUTING](CONTRIBUTING.md)
 
 ### 🛠️ Installation and Usage
 
