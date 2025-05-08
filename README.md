@@ -97,7 +97,7 @@ Task added: Prepare report
 
 ### DOCUMENTACIÓN GENERADA | HTML
 
-[DOCUMENTACION GENERADA POR HTML](build/dokka/index.html)
+[DOCUMENTACION GENERADA POR HTML](https://github.com/PabloFdez06/daw1b-2425-Proyecto2-DIGI-PabloFdez06/blob/main/build/dokka/index.html)
 
 ### CONTRIBUTING
 [Contributing](CONTRIBUTING.md)
