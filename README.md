@@ -35,10 +35,10 @@ Cuando ejecutas el script, se mostrará un menú con opciones para gestionar las
 [Preguntas](Preguntas.md)
 
 
-# FASE 3 DEL PROYECTO
-
-#### Fase 1
-
+# -- FASE 3 DEL PROYECTO --
+---
+## Fase 1
+---
 ## Digital Task Management System
 
 A lightweight, console-based task management application built in Kotlin, designed to support digital transformation in small to medium-sized enterprises by streamlining task planning, execution, and prioritization.
@@ -95,11 +95,11 @@ Task added: Prepare report
 
 ---
 
-### DOCUMENTATION GENERATED | HTML
+### 📝 DOCUMENTATION GENERATED | HTML
 
 [DOCUMENTACION GENERADA POR HTML](build/dokka/index.html)
 
-### CONTRIBUTING
+### 🎯 CONTRIBUTING
 [CONTRIBUTING](CONTRIBUTING.md)
 
 ### 🛠️ Installation and Usage
@@ -108,7 +108,7 @@ Task added: Prepare report
 - Java JDK 8+
 - Kotlin installed, or using IntelliJ Idea
 
-### Run locally
+#### Run locally
 
 ```bash
 # Compile
@@ -119,8 +119,9 @@ java -jar taskmanager.jar
 ```
 Or run via IntelliJ IDEA by creating a Kotlin project and pasting the code.
 
-### LICENSE
+### 📄 LICENSE
 This project is licensed under the [MIT License](LICENSE).
 
-#### Fase 2
-
+---
+## Fase 2
+---
