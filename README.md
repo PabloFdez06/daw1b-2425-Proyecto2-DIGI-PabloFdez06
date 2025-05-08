@@ -73,6 +73,27 @@ Digital transformation requires efficient tools to manage day-to-day operations.
 
 ---
 
+### 🧪 Examples of use
+
+```plaintext
+Welcome to the Digital Task Manager!
+Enter username: admin
+Enter password: password123
+
+Menu:
+1. Add Task
+2. View Tasks
+3. Complete Task
+4. Exit
+
+> Select option: 1
+Enter title: Prepare report
+Enter description: Monthly finance report
+Enter due date: 2025-06-01
+Enter priority (1-5): 2
+Task added: Prepare report
+```
+
 ### CONTRIBUTING
 [Contributing](CONTRIBUTING.md)
 
@@ -92,6 +113,9 @@ kotlinc Main.kt -include-runtime -d taskmanager.jar
 java -jar taskmanager.jar
 ```
 Or run via IntelliJ IDEA by creating a Kotlin project and pasting the code.
+
+### LICENSE
+[License](LICENSE)
 
 #### Fase 2
 
