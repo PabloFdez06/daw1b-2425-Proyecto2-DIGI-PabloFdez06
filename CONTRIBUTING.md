@@ -24,6 +24,11 @@ We welcome contributions of all kinds, including:
 4. Make your changes and commit them clearly.
 5. Push to your fork and create a Pull Request against the main branch.
 
+## 🌱 Branching Model
+
+- Use meaningful branch names like `feature/add-login`, `fix/input-validation`, etc.
+- All changes should be merged into the `main` branch via Pull Requests.
+
 ## 📐 Code Style Guide
 Please follow these conventions:
 
@@ -41,4 +46,17 @@ When submitting a contribution:
 - If functionality is significant, update the README.md.
 - Generate automatic documentation using Dokka (optional).
 - Propose devlog updates for inclusion in the project Wiki.
+
+## 🛠️ Running the Project Locally
+
+You can compile the Kotlin file with:
+
+```bash
+kotlinc Main.kt -include-runtime -d taskmanager.jar
+java -jar taskmanager.jar
+```
+
+## 💬 Issues & Feature Requests
+
+If you find a bug or have a suggestion for a new feature, please open an issue first to discuss it.
 
