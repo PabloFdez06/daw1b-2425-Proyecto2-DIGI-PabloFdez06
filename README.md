@@ -100,7 +100,7 @@ Task added: Prepare report
 [DOCUMENTACION GENERADA POR HTML](build/dokka/index.html)
 
 ### 🎯 CONTRIBUTING
-GO TO [CONTRIBUTING](CONTRIBUTING.md).
+GO TO [CONTRIBUTING](Contributing.md).
 
 ### 🛠️ Installation and Usage
 
