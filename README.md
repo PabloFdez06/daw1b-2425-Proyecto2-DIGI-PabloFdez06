@@ -67,12 +67,6 @@ Digital transformation requires efficient tools to manage day-to-day operations.
 
 ---
 
-### 🖥️ Demo
-
-[A simple web live version](https://717df0d5-865d-411d-8816-fd7df8d3a024-00-3ekw8zz1a1agf.kirk.replit.dev/)
-
----
-
 ### 🧪 Examples of use
 
 ```plaintext
@@ -93,6 +87,13 @@ Enter due date: 2025-06-01
 Enter priority (1-5): 2
 Task added: Prepare report
 ```
+---
+
+### 🖥️ Demo
+
+[A simple web live version](https://717df0d5-865d-411d-8816-fd7df8d3a024-00-3ekw8zz1a1agf.kirk.replit.dev/)
+
+---
 
 ### DOCUMENTACIÓN GENERADA | HTML
 
