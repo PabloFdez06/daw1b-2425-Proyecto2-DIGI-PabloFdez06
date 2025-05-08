@@ -1,4 +1,4 @@
-# Respuestas a las preguntas del Proyecto 2: Transformación Digital
+# Respuestas a las preguntas del Proyecto 2: Transformación Digital | FASE 2
 
 ## **Ciclo de vida del dato (5b)**
 
@@ -67,3 +67,179 @@ Permitirían almacenamiento seguro y colaboración en tiempo real entre equipos 
 Integrando servicios de autenticación como OAuth, almacenamiento en la nube y dashboards con visualización de datos.
 
 ---
+
+# Respuestas a las preguntas del Proyecto 3: Un código abierto para la transformación digital | Fase 2: Análisis de utilidad y aplicación
+
+---
+
+## 🔍 Criterio 6a) Objetivos estratégicos
+
+**¿Qué objetivos estratégicos específicos de la empresa aborda el software?**
+
+* Digitalización del flujo de trabajo interno.
+* Organización y priorización de tareas.
+* Mejora de la seguridad básica mediante control de acceso (login).
+
+**¿Cómo se alinea con la estrategia general de digitalización?**
+El sistema facilita la automatización de procesos esenciales de gestión, fomenta una cultura digital y establece una base escalable para futuras integraciones. Así lo refleja también el README en su sección "Motivación".
+
+---
+
+## 💼 Criterio 6b) Áreas de negocio y comunicaciones
+
+**¿Qué áreas de la empresa se ven beneficiadas?**
+
+* **Producción**: control de tareas y procesos.
+* **Negocio**: organización de proyectos y seguimiento.
+* **Comunicaciones internas**: reducción del uso de canales informales.
+
+**¿Qué impacto operativo se espera?**
+
+* Mayor control de avances.
+* Claridad de prioridades.
+* Mayor responsabilidad individual.
+* Reducción de reuniones innecesarias.
+
+---
+
+## 🧠 Criterio 6c) Áreas susceptibles de digitalización
+
+**¿Cuáles son?**
+
+* Gestión de proyectos internos.
+* Asignación de tareas.
+* Seguimiento de cumplimiento.
+
+**¿Cómo mejora la digitalización?**
+
+* Centraliza información.
+* Elimina dependencias analógicas.
+* Mejora trazabilidad y toma de decisiones.
+
+---
+
+## ♻️ Criterio 6d) Encaje de áreas digitalizadas
+
+**¿Cómo interactúan las áreas digitalizadas con las no digitalizadas?**
+Las tareas se planifican digitalmente pero pueden ejecutarse en entornos manuales, como producción.
+
+**Propuestas de mejora:**
+
+* Roles de usuario diferenciados.
+* Notificaciones automáticas.
+* Exportación a PDF/email para entornos no digitalizados.
+
+---
+
+## 📅 Criterio 6e) Necesidades presentes y futuras
+
+**Necesidades actuales cubiertas:**
+
+* Herramienta eficaz para coordinar tareas.
+* Mejor trazabilidad.
+* Reducción de tiempos de comunicación.
+
+**Proyección futura:**
+
+* Multiusuario.
+* Persistencia en la nube.
+* Exportación y reportes.
+* Integración con otras plataformas.
+
+---
+
+## 🛠️ Criterio 6f) Tecnologías
+
+**Tecnologías empleadas:**
+
+* Kotlin + JVM.
+* UUIDs.
+* Dokka.
+* GitHub + markdown.
+
+**Impacto y beneficios:**
+
+* Código mantenible.
+* Fomento del trabajo colaborativo.
+* Mejora de documentación y accesibilidad.
+
+---
+
+## 🔐 Criterio 6g) Brechas de seguridad
+
+**Posibles riesgos:**
+
+* Contraseñas sin cifrado.
+* Validaciones débiles.
+* Falta de roles.
+
+**Medidas de mitigación:**
+
+* Cifrado de contraseñas.
+* Validación robusta.
+* Perfiles de usuario.
+* Uso de bases de datos seguras.
+
+---
+
+## 📊 Criterio 6h) Tratamiento de datos y análisis
+
+**Gestión de datos:**
+
+* Uso de listas en memoria.
+* Ordenación por prioridad.
+* Identificadores únicos con UUID.
+
+**Calidad y consistencia:**
+
+* Validación básica.
+* Trazabilidad garantizada.
+
+---
+
+## 🔌 Criterio 6i) Integración de sistemas
+
+**Interacción de sistemas:**
+
+* Arquitectura modular.
+* Posibilidad de exportar datos.
+
+**Propuestas de mejora:**
+
+* Exportación a CSV/JSON.
+* Creación de API REST.
+* Sincronización con apps externas.
+
+---
+
+## 📃 Criterio 6j) Documentación de cambios
+
+**Documentación existente:**
+
+* CONTRIBUTING.md.
+* README con estructura clara.
+* Comentarios con KDoc.
+
+**Uso de devlog:**
+
+* Se propone su uso futuro para cambios estratégicos.
+
+---
+
+## 🧑‍💼 Criterio 6k) Recursos humanos
+
+**Habilidades necesarias:**
+
+* Conocimientos en Kotlin.
+* Uso de Git y GitHub.
+* Lectura de documentación técnica.
+
+**Estrategias de capacitación:**
+
+* Crear una Wiki interna.
+* Etiquetas "good first issue".
+* Ejemplos comentados en el código.
+
+---
+
+Este análisis muestra que mi software no solo responde a necesidades actuales, sino que tiene potencial de mejora e integración futura, alineándose con los objetivos de transformación digital en entornos empresariales.
