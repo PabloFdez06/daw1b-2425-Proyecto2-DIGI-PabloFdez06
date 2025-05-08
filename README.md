@@ -33,3 +33,65 @@ Cuando ejecutas el script, se mostrará un menú con opciones para gestionar las
 
 **Respuestas a preguntas del Proyecto**  
 [Preguntas](Preguntas.md)
+
+
+# FASE 3 DEL PROYECTO
+
+#### Fase 1
+
+## Digital Task Management System
+
+A lightweight, console-based task management application built in Kotlin, designed to support digital transformation in small to medium-sized enterprises by streamlining task planning, execution, and prioritization.
+
+### 🚀 Motivation
+
+Digital transformation requires efficient tools to manage day-to-day operations. This project was created as a simple, yet practical solution to:
+- Encourage the adoption of digital workflows in traditional business environments.
+- Serve as a foundation for integrating digital task tracking into business operations.
+- Showcase the potential of Kotlin in enterprise utility tools.
+- Enable clear, documented, and secure collaboration through open-source software.
+
+### 🔧 Features
+
+- Secure login system (username and password).
+- Add tasks with title, description, due date, and priority.
+- View tasks sorted by priority.
+- Mark tasks as completed.
+- Data managed in-memory (mocked cloud storage via lists and UUIDs).
+
+### 📦 Technologies
+
+- **Language**: Kotlin
+- **Runtime**: JVM
+- **Build tool**: N/A (simple CLI app; can be compiled and run with Kotlin CLI or IntelliJ)
+
+---
+
+### 🖥️ Demo
+
+> A live web-based version is not yet available. A CLI video demo or hosted version (via Replit or similar) can be added in the future.
+
+---
+
+### CONTRIBUTING
+[Contributing](CONTRIBUTING.md)
+
+### 🛠️ Installation and Usage
+
+#### Requirements
+- Java JDK 8+
+- Kotlin installed, or using IntelliJ Idea
+
+### Run locally
+
+```bash
+# Compile
+kotlinc Main.kt -include-runtime -d taskmanager.jar
+
+# Execute
+java -jar taskmanager.jar
+```
+Or run via IntelliJ IDEA by creating a Kotlin project and pasting the code.
+
+#### Fase 2
+
