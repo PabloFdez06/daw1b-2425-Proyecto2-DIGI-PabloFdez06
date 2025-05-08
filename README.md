@@ -97,6 +97,7 @@ Task added: Prepare report
 
 ### DOCUMENTACIÓN GENERADA | HTML
 
+[DOCUMENTACION GENERADA POR HTML](buid/dokka/index.html)
 
 ### CONTRIBUTING
 [Contributing](CONTRIBUTING.md)
