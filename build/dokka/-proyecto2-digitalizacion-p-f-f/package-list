@@ -1,0 +1,23 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/index.html
+$dokka.location://agregarTarea/#java.util.Scanner/PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/agregar-tarea.html
+$dokka.location://completarTarea/#java.util.Scanner/PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/completar-tarea.html
+$dokka.location://ejecutarMenu/#java.util.Scanner/PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/ejecutar-menu.html
+$dokka.location://main/#/PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/main.html
+$dokka.location://verTareas/#/PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/ver-tareas.html
+$dokka.location:/Tareas///PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/-tareas/index.html
+$dokka.location:/Tareas/Tareas/#kotlin.String#kotlin.String#kotlin.String#kotlin.Boolean#kotlin.String#kotlin.Int/PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/-tareas/-tareas.html
+$dokka.location:/Tareas/completada/#/PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/-tareas/completada.html
+$dokka.location:/Tareas/descripcion/#/PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/-tareas/descripcion.html
+$dokka.location:/Tareas/fechaVencimiento/#/PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/-tareas/fecha-vencimiento.html
+$dokka.location:/Tareas/id/#/PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/-tareas/id.html
+$dokka.location:/Tareas/prioridad/#/PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/-tareas/prioridad.html
+$dokka.location:/Tareas/titulo/#/PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/-tareas/titulo.html
+$dokka.location:/TaskManager///PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/-task-manager/index.html
+$dokka.location:/TaskManager/aniadirTarea/#kotlin.String#kotlin.String#kotlin.String#kotlin.Int/PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/-task-manager/aniadir-tarea.html
+$dokka.location:/TaskManager/completarTarea/#kotlin.String/PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/-task-manager/completar-tarea.html
+$dokka.location:/TaskManager/login/#kotlin.String#kotlin.String/PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/-task-manager/login.html
+$dokka.location:/TaskManager/obtenerTarea/#/PointingToDeclaration/-proyecto2-digitalizacion-p-f-f/[root]/-task-manager/obtener-tarea.html
+
+
